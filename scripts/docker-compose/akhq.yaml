@@ -1,0 +1,13 @@
+version: "2"
+services:
+  akhq:
+    image: tchiotludo/akhq
+    ports:
+      - 8085:8080
+    environment:
+      AKHQ_CONFIGURATION: |
+        akhq:
+          connections:
+            docker-kafka-server:
+              properties:
+                bootstrap.servers: "kafka-server:9092"
