@@ -40,3 +40,5 @@ echo \
 apt update
 apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin -y
 
+echo '\nalias ports="lsof -nP | grep LISTEN"\n' >> ~/.zshrc
+source ~/.zshrc
