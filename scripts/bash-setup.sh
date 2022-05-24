@@ -6,12 +6,13 @@ chsh -s $(which zsh)
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 echo "\n-----\n"
 
-
+echo "\n-- JENV INSTALL --\n"
 rm -rf $HOME/.jenv
 git clone https://github.com/jenv/jenv.git ~/.jenv
 echo 'export PATH="$HOME/.jenv/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(jenv init -)"' >> ~/.zshrc
 source ~/.zshrc
+jenv enable-plugin maven
 echo "\n-- JENV VERSIONS --\n"
 jenv versions
 
