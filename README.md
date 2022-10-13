@@ -3,7 +3,7 @@
 `$ WHOIS aminovmaksim`: Software Engineer building services for businesses
 
 #### Currently:
- - 💼 Lead Java Developer for [Currency control](https://www.sberbank.ru/ru/s_m_business/ved) @ [**Sber**](https://sber.ru/)
+ - 💼 Software Developer @ [**Sber**](https://sber.ru/)
  - 🛠 Java, Spring, JUnit, Maven, Kubernetes (OpenShift) & Docker, Kafka, Postgres, Redis
  - 💻 MacOS (primary) & Windows 10
  - 🐾 Pets pinned below 👇
