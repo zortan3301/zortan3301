@@ -3,7 +3,7 @@
 `$ WHOIS aminovmaksim`: Software Engineer building services for businesses
 
 #### Currently:
- - 💼 Software Developer @ [**Sber**](https://sber.ru/)
+ - 💼 Backend Software Developer
  - 🛠 Java, Spring, JUnit, Maven, Kubernetes & Docker, Kafka, Postgres, Redis
 
 [<img src="./static/Telegram.png" width="132" height="36">](https://t.me/jdev3301)
