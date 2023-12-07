@@ -1,8 +1,8 @@
 ### Hello there!
 
-`$ WHOIS aminovmaksim`: Software Engineer building services for businesses
+`$ WHOIS aminovmaksim`: Software Engineer
 
 #### Currently:
  - 💼 Backend Software Developer
- - 🛠 Java, Spring, JUnit, Maven, Kubernetes & Docker, Kafka, Postgres, Redis
+ - 🛠 Java, Kotlin, Spring, JUnit, Maven, Kubernetes & Docker, Kafka, Postgres, Redis
 
