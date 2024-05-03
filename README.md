@@ -1,6 +1,6 @@
 ### Hello there!
 
-`$ WHOIS aminovmaksim`: Software Engineer
+`$ WHOIS zortan`: Software Engineer
 
 #### Currently:
  - 💼 FinTech
